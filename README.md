@@ -88,7 +88,7 @@ Aplicação full stack com foco em modelagem de negócio.
 
 ## 💼 Experiência
 
-**Analista — Engetami Engenharia**  
+**Analista Administrativo — Engetami Engenharia**  
 2023 – Atual
 
 - Automação de processos com Python e Selenium  
