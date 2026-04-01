@@ -121,8 +121,9 @@ Sistema de automação end-to-end que:
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brielgaa&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brielgaa&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=brielgaa&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brielgaa&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 ---
