@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Gabriel Bitencourt
 
-<!--
-**brielgaa/brielgaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor focado em backend, automação e IA  
+🤖 Experiência com Python, Java e aplicações voltadas a problemas reais  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Sou estudante de Ciência da Computação com foco em desenvolvimento backend e automação de processos.
+
+Tenho experiência na construção de aplicações completas, desde projetos acadêmicos até soluções aplicadas em ambiente corporativo, utilizando automação e inteligência artificial para reduzir erros e aumentar eficiência.
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+💻 Linguagens:
+- Java
+- Python
+- JavaScript
+
+⚙️ Tecnologias:
+- Selenium (RPA)
+- OpenCV
+- TensorFlow
+- Pandas
+- MongoDB
+- Java Swing
+
+---
+
+## 🔥 Projetos em destaque
+
+🔹 Sistema de Automação com IA  
+Automação de geração de relatórios técnicos e encerramento de processos, reduzindo erros humanos e aumentando produtividade  
+
+🔹 SistemaGame (Java)  
+Aplicação desktop com CRUD completo, regras de negócio e interface gráfica em Swing  
+
+🔹 Sistema Web de Barbearia  
+Projeto full stack com PHP, JavaScript e MongoDB, desenvolvido com Scrum, BPMN e modelagem de dados  
+
+---
+
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brielgaa&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brielgaa&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contato
+
+🔗 LinkedIn: https://www.linkedin.com/in/gabrieldasilvabitencourt  
