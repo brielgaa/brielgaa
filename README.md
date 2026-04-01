@@ -107,31 +107,6 @@ Sistema de automação end-to-end que:
 
 ---
 
-## 💼 Experiência Profissional
-
-### 📍 Engetami Engenharia — Analista
-📅 2023 – Atual  
-
-- Desenvolvimento de automação com Python + Selenium  
-- Criação de pipelines de dados com Pandas  
-- Aplicação de visão computacional  
-- Implementação de multithreading  
-- Geração automatizada de relatórios técnicos  
-
----
-
-### 📍 PH Ambiental — Assistente Administrativo
-- Análise de dados operacionais  
-- Relatórios e uso de sistemas corporativos  
-
----
-
-### 📍 Sabesp — Jovem Aprendiz
-- Rotinas administrativas  
-- Suporte operacional  
-
----
-
 ## 🧠 Competências
 
 - Programação Orientada a Objetos (POO)  
