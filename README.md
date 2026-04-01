@@ -1,35 +1,44 @@
-<h1 align="center">👋 Olá, eu sou o Gabriel Bitencourt</h1>
+<h1 align="center">👋 Gabriel Bitencourt</h1>
 
 <p align="center">
-  💻 Backend Developer • Automação • IA <br>
-  🤖 Construindo soluções para problemas reais com tecnologia
+  💻 Backend Developer | Automação | Engenharia de Dados <br>
+  🤖 IA aplicada a problemas reais • RPA • Sistemas escaláveis
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabrieldasilvabitencourt">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <img src="https://img.shields.io/badge/Location-São%20Paulo-blue?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 🧠 Sobre mim
 
-Sou estudante de Ciência da Computação com foco em desenvolvimento backend, automação de processos e engenharia de dados.
+Desenvolvedor Backend com foco em automação de processos, engenharia de dados e aplicações com inteligência artificial.
 
-Atuo criando soluções que automatizam fluxos operacionais, reduzem erros humanos e aumentam eficiência, utilizando Python, IA e integração com sistemas corporativos.
+Experiência prática no desenvolvimento de soluções que integram coleta, processamento e execução automática de tarefas em sistemas corporativos, reduzindo erros humanos e aumentando produtividade.
 
-Tenho experiência prática com pipelines de dados end-to-end, RPA e visão computacional aplicada.
+Atuação com pipelines end-to-end em Python, RPA com Selenium e modelos de visão computacional aplicados a cenários reais.
 
 ---
 
-## 🛠️ Tecnologias
+## 🚀 Stack Tecnológica
 
 ### 💻 Linguagens
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php"/>
 </p>
 
-### ⚙️ Backend & Data
+### ⚙️ Backend, Data & IA
 <p>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
@@ -37,38 +46,100 @@ Tenho experiência prática com pipelines de dados end-to-end, RPA e visão comp
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
 </p>
 
-### 🗄️ Banco de Dados & Ferramentas
+### 🧠 Visão Computacional
+<p>
+  <img src="https://img.shields.io/badge/YOLOv8-black?style=for-the-badge"/>
+</p>
+
+### 🗄️ Banco de Dados
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle"/>
+</p>
+
+### 🛠️ Ferramentas & Engenharia
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
 </p>
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos em Destaque
 
-🔹 **Automação com IA**  
-Pipeline de geração de relatórios com visão computacional + automação web (RPA)
+### 🤖 Automação de Relatórios com IA
+Sistema de automação end-to-end que:
+- Processa dados via Excel (Pandas)
+- Classifica imagens com CNN (OpenCV + TensorFlow)
+- Gera relatórios técnicos em PDF
+- Executa automação em sistema web (Selenium)
 
-🔹 **SistemaGame (Java Desktop)**  
-CRUD completo, regras de negócio, POO e interface gráfica com Swing  
-
-🔹 **Sistema Web de Barbearia**  
-Full stack com PHP, JavaScript e MongoDB + Scrum + BPMN  
+📊 Resultado:
+- Redução significativa de tempo operacional  
+- Eliminação de erros humanos  
+- Padronização completa dos relatórios  
 
 ---
 
-## 💼 Experiência
+### ⚙️ Sistema de Automação GEOINFRA
+- Automação de processos corporativos  
+- Integração com sistema web  
+- Execução automática de fluxos operacionais  
+- Uso de multithreading para ganho de performance  
 
-📍 **Analista — Engetami Engenharia (Operações Sabesp)**  
-• Automação de processos com Python + Selenium  
-• Pipelines de dados com Pandas  
-• Multithreading para performance  
-• Visão computacional aplicada  
-• Geração automática de relatórios  
+---
+
+### 🎮 SistemaGame (Java Desktop)
+- CRUD completo de clientes e jogos  
+- Regras de negócio com POO (herança, polimorfismo)  
+- Interface gráfica com Java Swing  
+- Persistência de dados com serialização  
+
+---
+
+### 💈 Sistema Web de Barbearia
+- PHP + JavaScript + MongoDB  
+- Metodologias ágeis (Scrum)  
+- Modelagem de dados + BPMN + BMC  
+- Sistema de agendamento e gestão  
+
+---
+
+## 💼 Experiência Profissional
+
+### 📍 Engetami Engenharia — Analista
+📅 2023 – Atual  
+
+- Desenvolvimento de automação com Python + Selenium  
+- Criação de pipelines de dados com Pandas  
+- Aplicação de visão computacional  
+- Implementação de multithreading  
+- Geração automatizada de relatórios técnicos  
+
+---
+
+### 📍 PH Ambiental — Assistente Administrativo
+- Análise de dados operacionais  
+- Relatórios e uso de sistemas corporativos  
+
+---
+
+### 📍 Sabesp — Jovem Aprendiz
+- Rotinas administrativas  
+- Suporte operacional  
+
+---
+
+## 🧠 Competências
+
+- Programação Orientada a Objetos (POO)  
+- Estruturas de Dados e Algoritmos  
+- Automação de Processos (RPA)  
+- Web Scraping  
+- Engenharia de Dados  
+- Machine Learning aplicado  
 
 ---
 
@@ -83,8 +154,12 @@ Full stack com PHP, JavaScript e MongoDB + Scrum + BPMN
 
 ## 📫 Contato
 
-<p>
-  <a href="https://www.linkedin.com/in/gabrieldasilvabitencourt">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
+📍 São Paulo, Brasil  
+📧 gabriel.dasilva1@outlook.com  
+🔗 LinkedIn: https://www.linkedin.com/in/gabrieldasilvabitencourt  
+
+---
+
+<p align="center">
+  🚀 Construindo soluções reais com tecnologia
 </p>
