@@ -72,6 +72,8 @@ Automação completa de fluxo corporativo aplicado em operações da Sabesp: ext
 
 ---
 
+## 🎓 Projetos Acadêmicos
+
 ### 🎮 Jogo 2D — O Estudante Universitário
 `Godot Engine • GDScript`
 
@@ -85,8 +87,6 @@ Jogo de plataforma 2D desenvolvido em equipe para a disciplina de Sistemas Inter
 🎮 [Jogar no itch.io](https://brielgaa.itch.io/o-estudante-universitario) &nbsp;•&nbsp; 🔗 [github.com/brielgaa/GODOT-GAME](https://github.com/brielgaa/GODOT-GAME)
 
 ---
-
-## 🎓 Projetos Acadêmicos
 
 ### ☕ Sistema Backend em Java
 `Java • Swing • POO`
