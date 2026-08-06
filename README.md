@@ -1,240 +1,282 @@
 <h1 align="center">Gabriel Bitencourt</h1>
 
 <p align="center">
-Data Engineer • Backend Developer • Geospatial Data • AI Automation
+  <strong>Engenharia de Dados • Backend • Automação • Dados Geoespaciais</strong>
 </p>
 
 <p align="center">
-São Paulo - Brazil •
-<a href="https://www.linkedin.com/in/gabrieldasilvabitencourt">LinkedIn</a> •
-<a href="mailto:gabriel.dasilva1@outlook.com">gabriel.dasilva1@outlook.com</a>
+  Desenvolvendo soluções para transformar dados operacionais em sistemas escaláveis.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabrieldasilvabitencourt">
+    <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Bitencourt-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:gabriel.dasilva1@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Outlook-000000?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/brielgaa">
+    <img src="https://img.shields.io/github/followers/brielgaa?style=for-the-badge&color=000000&labelColor=000000"/>
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=brielgaa&style=for-the-badge&color=000000"/>
 </p>
 
 ---
 
-# About
+# 👋 Sobre
 
-Computer Science student and Data Engineer focused on building scalable data pipelines, automation systems and geospatial applications.
+Olá!
 
-Over the past 6 years working inside the Sabesp ecosystem, I've developed solutions that integrate heterogeneous corporate systems, automate operational workflows and transform raw operational data into reliable geospatial datasets.
+Meu nome é **Gabriel Bitencourt** e atualmente trabalho desenvolvendo soluções de **Engenharia de Dados**, **Automação** e **Processamento Geoespacial** para operações da **Sabesp**.
 
-Main interests:
+Sou estudante de **Ciência da Computação** na **UNINOVE** e gosto de construir sistemas completos, desde a ingestão dos dados até dashboards e ferramentas utilizadas no dia a dia por equipes operacionais.
 
-- Data Engineering
-- Backend Development
-- Geospatial Systems
-- Computer Vision
-- Process Automation
-- Artificial Intelligence
+Nos últimos anos desenvolvi aplicações envolvendo:
 
----
+- Engenharia de Dados
+- ETL
+- Backend Python
+- Dados Geoespaciais
+- Inteligência Artificial
+- Visão Computacional
+- Automação Corporativa
+- Dashboards Analíticos
 
-# Tech Stack
-
-### Languages
-
-Python • SQL • Java • JavaScript • C# • PHP
-
-### Data Engineering
-
-Pandas • GeoPandas • ETL • SQLite • Oracle • MongoDB • OpenPyXL • ReportLab
-
-### Geospatial
-
-Shapely • GeoPandas • PyDeck • WFS • Spatial Index • EPSG Transformations
-
-### Backend
-
-REST APIs • Selenium • Web Scraping • Multithreading • Streamlit
-
-### AI
-
-PyTorch • YOLOv8 • OpenCV • TensorFlow • NumPy
-
-### Tools
-
-Git • GitHub • Power BI • Excel • AWS
+Atualmente meu principal projeto é um pipeline geoespacial para auditoria automática de obras públicas da cidade de São Paulo.
 
 ---
 
-# Featured Projects
+# 🚀 Tecnologias
+
+### Linguagens
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white"/>
+
+</p>
+
+### Engenharia de Dados
+
+<p>
+
+<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GeoPandas-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Shapely-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RapidFuzz-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+</p>
+
+### Dados Geoespaciais
+
+<p>
+
+<img src="https://img.shields.io/badge/GeoSampa_WFS-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/GeoJSON-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/PyDeck-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=white"/>
+
+</p>
+
+### IA & Automação
+
+<p>
+
+<img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=selenium&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</p>
+
+---
+
+# ⭐ Projeto em Destaque
 
 # 🗺️ Obras SP Pipeline
 
-**Python • GeoPandas • Shapely • Streamlit • PyDeck • RapidFuzz**
+Pipeline ETL desenvolvido para auditoria automática de notificações de obras e recapeamentos da cidade de São Paulo.
 
-A complete geospatial ETL pipeline that audits more than **5,000 public road resurfacing records** by integrating multiple operational systems and São Paulo's official GeoSampa database.
+O projeto integra diferentes bases operacionais, normaliza logradouros, identifica correspondências utilizando estratégias híbridas de matching e reconstrói geometrias oficiais utilizando a malha viária do GeoSampa.
 
-Main features:
+### Principais funcionalidades
 
-- End-to-end ETL
-- Spatial matching
-- Street normalization
-- Fuzzy matching
-- Geospatial recovery engine
-- Interactive review interface
-- Human-in-the-loop validation
-- Automatic geometry reconstruction
-- Dashboard with PyDeck
-- Spatial statistics
-- CSV exports
-- Persistent cache
-- Checkpoint execution
+- Pipeline ETL completo
+- Integração entre múltiplos sistemas
+- Normalização automática de logradouros
+- Correção automática de encoding
+- Matching híbrido (Fuzzy + Espacial)
+- Recuperação automática de geometrias
+- Dashboard geoespacial
+- Sistema de revisão humana
+- Cache persistente
+- Checkpoints para auditorias longas
+- Exportação de dados
 
-Highlights:
+### Estatísticas
 
-- Processes 5,000+ road segments
-- Automatic street normalization
-- Interactive human review system
-- Route reconstruction engine
-- Geometry recovery strategies
-- High-performance cached execution
-- Official GeoSampa WFS integration
-- Interactive map visualization
+- 🛣️ **5.022** recapeamentos processados
+- 🔎 **43.000+** candidatos fuzzy avaliados
+- 🗂️ Integração entre **3 bases operacionais**
+- 🧠 Sistema de revisão humana para validação de correspondências
+- 📍 Dashboard geoespacial interativo
+- ⚡ Cache persistente reduzindo auditorias de aproximadamente **22 minutos para menos de 2 minutos**
+- 🏗️ Arquitetura modular baseada em componentes independentes
 
-Technologies:
+### Stack
 
-```
-Python
-Pandas
-GeoPandas
-Shapely
-RapidFuzz
-PyDeck
-Streamlit
-```
+`Python` `Pandas` `GeoPandas` `Shapely` `RapidFuzz` `Streamlit` `PyDeck`
 
-Repository:
+🔗 **Repositório**
 
 https://github.com/brielgaa/obras-sp-pipeline
 
 ---
 
-# 🤖 GEOINFRA Automation System
+# 🤖 Sistema de Automação GEOINFRA
 
-Corporate automation platform used in Sabesp operations.
+Sistema corporativo desenvolvido para automatizar processos operacionais utilizados nas equipes da Sabesp.
 
-Features:
+### Recursos
 
-- Selenium automation
-- Image classification with YOLOv8
-- PDF report generation
-- Automated workflow execution
-- Data extraction
-- Operational dashboards
+- Automação Web
+- Selenium
+- Visão Computacional
+- YOLOv8
+- OpenCV
+- Relatórios PDF automatizados
+- Dashboards operacionais
 
-Technologies:
+### Resultado
 
-```
-Python
-Selenium
-PyTorch
-YOLOv8
-OpenCV
-ReportLab
-Pandas
-```
+✔️ Redução aproximada de **80%** no tempo de processamento operacional.
 
-> Repository unavailable due to corporate confidentiality.
+> Repositório privado por conter informações corporativas.
 
 ---
 
-# Academic Projects
+# 📌 Outros Projetos
 
-## 🎮 2D Platform Game
+## 🎮 O Estudante Universitário
 
-Godot Engine
+Jogo de plataforma 2D desenvolvido em Godot Engine.
 
-- State Machines
-- Enemy AI
-- Physics
-- Responsive UI
+**Stack**
 
-https://github.com/brielgaa/GODOT-GAME
+Godot • GDScript
 
----
-
-## ☕ Java Desktop Application
-
-Java • Swing
-
-- CRUD
-- OOP
-- Serialization
-- Discount Strategy Pattern
-
-https://github.com/brielgaa/Projeto-Java-Uninove---SistemaGame
+🔗 https://github.com/brielgaa/GODOT-GAME
 
 ---
 
-## ✂️ Barbershop Web System
+## ☕ Sistema Backend Java
+
+Sistema desktop utilizando Java Swing e Programação Orientada a Objetos.
+
+- CRUD completo
+- Polimorfismo
+- Serialização
+- Interface gráfica
+
+🔗 https://github.com/brielgaa/Projeto-Java-Uninove---SistemaGame
+
+---
+
+## ✂️ Barbearia Nevou Cortes
+
+Sistema Full Stack desenvolvido em equipe.
+
+**Stack**
 
 PHP • JavaScript • MongoDB
 
-- Authentication
-- Scheduling
-- CRUD
-- Scrum
-- BPMN
-
-https://github.com/brielgaa/Barbearia-Nevou-Cortes-
+🔗 https://github.com/brielgaa/Barbearia-Nevou-Cortes-
 
 ---
 
-# Professional Experience
+# 💼 Experiência
 
-## Data Engineer / Operational Data Analyst
+## Analista de Dados Operacionais
 
 **Engetami Engenharia (Sabesp)**
 
-2023 — Present
+**Setembro/2023 — Atual**
 
-Main responsibilities:
+### Principais responsabilidades
 
-- ETL pipelines
-- Geospatial data processing
-- Corporate systems integration
-- Computer Vision
-- Dashboard development
-- Process automation
-- Performance optimization
+- Engenharia de Dados
+- Desenvolvimento Backend
+- ETL
+- Processamento Geoespacial
+- Automação de Processos
+- Dashboards Power BI
+- Inteligência Artificial
+- Otimização de Performance
 
-Achievements:
+### Resultados
 
-- Reduced processing time by 80%
-- Eliminated manual workflows
-- Automated operational reports
-- Built AI-assisted inspection pipeline
-
----
-
-## Administrative Assistant
-
-PH Ambiental (Sabesp)
-
-2022 — 2024
-
-- Operational reports
-- SAP analysis
-- GeoCall
-- SIGNOS
-- Regulatory monitoring
+- 🚀 Redução de aproximadamente **80%** do tempo operacional
+- 📈 Automatização de processos críticos
+- 📄 Geração automática de relatórios técnicos
+- ⚙️ Desenvolvimento de ferramentas utilizadas diariamente pelas equipes operacionais
 
 ---
 
-## Apprentice
+# 📊 GitHub
 
-Sabesp
+<p align="center">
 
-2019 — 2021
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=brielgaa&show_icons=true&theme=transparent&hide_border=true"/>
 
-Administrative support.
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brielgaa&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=brielgaa&theme=transparent&hide_border=true"/>
+
+</p>
 
 ---
 
-# Education
+# 🎓 Formação
 
-**Bachelor's Degree in Computer Science**
+**Ciência da Computação**
 
 UNINOVE
 
@@ -242,18 +284,38 @@ UNINOVE
 
 ---
 
-# Contact
+# 📚 Atualmente estudando
 
-- LinkedIn
+- Arquitetura de Software
+- Engenharia de Dados
+- Sistemas Distribuídos
+- Machine Learning
+- Cloud Computing
+- Estruturas de Dados
+- Algoritmos
 
-https://www.linkedin.com/in/gabrieldasilvabitencourt
+---
 
-- Email
+# 📫 Contato
 
-gabriel.dasilva1@outlook.com
+<p>
+
+<a href="https://www.linkedin.com/in/gabrieldasilvabitencourt">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:gabriel.dasilva1@outlook.com">
+<img src="https://img.shields.io/badge/Outlook-000000?style=flat&logo=microsoftoutlook&logoColor=white"/>
+</a>
+
+<a href="https://github.com/brielgaa">
+<img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-Building real-world software with data, automation and geospatial intelligence.
+<b>"Transformando dados complexos em soluções escaláveis através de engenharia de dados, automação e inteligência geoespacial."</b>
 </p>
