@@ -2,9 +2,9 @@
 
 Building geospatial systems, data pipelines, and automation for operational infrastructure.
 
-**[GeoFusion](https://github.com/brielgaa/geofusion)** — geospatial infrastructure for resolving inconsistent street data, matching operational records to resurfacing segments, reconstructing routes, and validating geometry against São Paulo's road network.
+**[GeoFusion](https://github.com/brielgaa/geofusion)** — resolves inconsistent street data, matches operational records to repaving segments, and reconstructs routes across the road network with geometry and topology validation.
 
-**GEOINFRA** — private automation system for operational workflows, inspection processing, computer vision, and technical reporting.
+**GEOINFRA** — private automation for inspection workflows: computer vision, image classification, automated report generation.
 
 Python · GeoPandas · Shapely · Pandas · SQL
 
