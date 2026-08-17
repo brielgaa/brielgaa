@@ -8,4 +8,4 @@ Building geospatial systems, data pipelines, and automation for operational infr
 
 Python · GeoPandas · Shapely · Pandas · SQL
 
-[LinkedIn](https://www.linkedin.com/in/gabrieldasilvabitencourt) · [Email](mailto:gsbiten@gmail.com) · [Portfolio](https://github.com/brielgaa/portfolio-brielga)
+[LinkedIn](https://www.linkedin.com/in/gabrieldasilvabitencourt) · [Email](mailto:gsbiten@gmail.com) · [Portfolio](https://github.com/brielgaa/portfolio-brielga)⏳
