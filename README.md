@@ -55,9 +55,9 @@
  '-----------------------------------------------------------------------------'
 ```
 
-<p align="center"><img src="./imgs/headings/stack.svg" alt="01 Stack" width="168" height="51"></p>
+<p><img src="./imgs/headings/stack.svg" alt="01 Stack" width="168" height="51"></p>
 
-<p align="center">
+<p>
   <img src="./imgs/icons/lang-python.svg" alt="Python" title="Python" width="60" height="60"
   ><img src="./imgs/icons/lang-typescript.svg" alt="TypeScript" title="TypeScript" width="60" height="60"
   ><img src="./imgs/icons/lang-geopandas.svg" alt="GeoPandas" title="GeoPandas" width="60" height="60"
@@ -69,9 +69,9 @@
   ><img src="./imgs/icons/lang-nextjs.svg" alt="Next.js" title="Next.js" width="60" height="60">
 </p>
 
-<p align="center"><img src="./imgs/headings/social.svg" alt="02 Links" width="162" height="51"></p>
+<p><img src="./imgs/headings/social.svg" alt="02 Links" width="162" height="51"></p>
 
-<p align="center">
+<p>
   <a href="https://github.com/brielgaa/geofusion"><img src="./imgs/icons/github.svg" alt="GeoFusion" title="GeoFusion" width="60" height="60"></a
   ><a href="https://www.brielga.dev/"><img src="./imgs/icons/website.svg" alt="Portfolio" title="Portfolio" width="60" height="60"></a
   ><a href="https://www.linkedin.com/in/gabrieldasilvabitencourt/"><img src="./imgs/icons/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="60" height="60"></a>
